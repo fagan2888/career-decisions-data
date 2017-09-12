@@ -1,4 +1,4 @@
-# Career Decisions of Young Men
+# The Career Decisions of Young Men
 
 This repository contains the data for the seminal work by Michael Keane and Kenneth Wolpin studying the career decisions of young men.
 
